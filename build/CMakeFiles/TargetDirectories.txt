@@ -1,0 +1,11 @@
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/TransDes.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/TransDes_All.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/TransDes_VST3.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/INSTALL.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/ALL_BUILD.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/CMakeFiles/ZERO_CHECK.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/CMakeFiles/INSTALL.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/CMakeFiles/ALL_BUILD.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/modules/CMakeFiles/INSTALL.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/extras/Build/CMakeFiles/INSTALL.dir
+D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/extras/Build/juceaide/CMakeFiles/INSTALL.dir

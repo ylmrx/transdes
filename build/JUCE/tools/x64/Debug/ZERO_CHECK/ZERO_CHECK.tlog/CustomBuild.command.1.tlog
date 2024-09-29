@@ -1,0 +1,10 @@
+^D:\USERS_DIRECTORY\YOANN\DOCUMENTS\REPOS\TRANSDES_JUCE6\BUILD\JUCE\TOOLS\CMAKEFILES\05E9F2DAC30A2A0EEA0916A363A0CA0F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Users_Directory/yoann/Documents/Repos/transdes_juce6/JUCE -BD:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/tools --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Users_Directory/yoann/Documents/Repos/transdes_juce6/build/JUCE/tools/JUCE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
