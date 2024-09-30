@@ -18,7 +18,7 @@ Fully left only "enveloped" signal comes through.
 
 Fully right, only the signal out of the envelope comes through
 
-### Envelope you said ?
+### Envelope, you said ?
 
 The compression relies on an envelope
 
@@ -37,30 +37,9 @@ The gen~ max/msp algorithm was transpiled to C++ with this nice Max package:
 
 ## Build
 
-Create a "build" folder, and use `cmake` to build the VST3 asset. It will also try to
-copy it to the relevant `VST3` folder on your system.
+(You need Xcode/Visual Studio and Projucer)
 
-You'll need some current version of `cmake` and `visualstudio` tools.
-
-```shell
-# from root of this repo
-mkdir build
-cd build
-cmake ..
-cmake --build . --Config Release
-```
-
-(This code should also build and run fine on Apple computers using Xcode, please
-report on success/failure)
-
-## Caveats
-
-Some earlier version tried to upgrade to juce8, DSP worked, but state
-management was way broken. (also the generated VST binary was huge).
-
-Given the use-case, I'll stick to juce6 as it works well enough.
-And I don't plan to deal with modern stuffs here (i.e. GUI, preset
-management, ...)
+Open the `.jucer` file in Projucer, and hit your IDE.
 
 ## `misc/`
 
